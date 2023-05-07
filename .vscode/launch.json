@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PatientRecordSystemTester",
+            "request": "launch",
+            "mainClass": "com.mycompany.AssignmentOriginal.PatientRecordSystemTester",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "PatientRecordSystemTester",
+            "request": "launch",
+            "mainClass": "com.mycompany.Assignment.PatientRecordSystemTester",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "WhoWantsAMillionIntegers",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.WhoWantsAMillionIntegers",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ReadPairs",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.ReadPairs",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ReadPairsV2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.ReadPairsV2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ReadPairsV1",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.ReadPairsV1",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "MyDogs",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.MyDogs",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Lab6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Lab6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Pet",
             "request": "launch",
             "mainClass": "com.mycompany.app.Pet",
